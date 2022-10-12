@@ -1,5 +1,4 @@
-<img src="https://i.imgur.com/I6d9SiS.jpg" alt="">
-
+<img src="https://camo.githubusercontent.com/7dd1fbd949fc2cb7e98ccf9acde4a99acf07f2517f946c9b205410eece202d56/68747470733a2f2f692e696d6775722e636f6d2f493664395369532e6a7067" alt="" data-canonical-src="https://i.imgur.com/I6d9SiS.jpg" style="max-width: 60%; style= max-height 60%">
 
 <h1 align="center">Hi 👋, I'm Leon Arango David</h1>
 <h3 align="center">A passionate frontend developer from Charleston SC</h3>

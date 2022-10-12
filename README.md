@@ -1,3 +1,6 @@
+<img src="https://i.imgur.com/I6d9SiS.jpg" alt="">
+
+
 <h1 align="center">Hi 👋, I'm Leon Arango David</h1>
 <h3 align="center">A passionate frontend developer from Charleston SC</h3>
 

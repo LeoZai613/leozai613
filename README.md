@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Leon Arango David</h1>
 <h3 align="center">A passionate frontend developer from Charleston SC</h3>
 
-- 🔭 I’m currently working on [Making a Corporate Website for M and L Electric](https://mandlelectric.net/)
+- 🔭 I’m currently working on Senior Reach Development for Moxie
 
-- 🌱 I’m currently learning **Intermediate React and algorithm work**
+- 🌱 I’m currently learning app building and resolving bottle necks 
 
 - 👯 I’m looking to collaborate on [Websites and app development](https://github.com/LeoZai613/BitApp)
 

@@ -7,15 +7,13 @@
 
 - 🌱 I’m currently learning app building and resolving bottle necks 
 
-- 👯 I’m looking to collaborate on [Websites and app development](https://github.com/LeoZai613/BitApp)
-
-- 👨‍💻 All of my projects are available at [https://leon-ze-tech-wiz.netlify.app/](https://leon-ze-tech-wiz.netlify.app/)
+- 👯 I’m looking to collaborate on Video games and app development
 
 - 💬 Ask me about **Passion projects, DND and APIs**
 
-- 📫 How to reach me **leonzetechwiz@gmail.com**
+- 📫 How to reach me **brandonleonmusic@gmail.com**
 
-- 📄 Know about my experiences [https://my.indeed.com/p/brandond-nlhv5i3](https://my.indeed.com/p/brandond-nlhv5i3)
+- 📄 Know about my experiences (https://www.linkedin.com/in/leon-613/)
 
 - ⚡ Fun fact **I am a multi-instrumentalist**
 

@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Leon Arango David</h1>
 <h3 align="center">A passionate frontend developer from Charleston SC</h3>
 
-- 🔭 I’m currently working on Senior Reach Development for Moxie
+- 🔭 I’m currently working as a Senior React Consultant for Techfield
 
 - 🌱 I’m currently learning app building and resolving bottle necks 
 
